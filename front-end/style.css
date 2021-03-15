@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Pacifico|Righteous|Roboto+Condensed|Ubuntu');
+@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+
+*
+{
+	margin:0;
+	padding: 0;
+
+}
+body
+{
+	font-family: sans-serif;
+}
+
+body{
+    overflow-x:hidden;
+}
+.container-fluid
+{
+	background-color: ;
+}
+.container
+{
+	background-color:;
+
+}
+.date
+{
+	display:inline-block;
+	font-size: 12px; 
+	margin-left :10px;
+}
+
+#firt_section
+{
+	margin-top: 15px;
+}
+.first_row img
+{
+	margin-top: 15px;
+
+}
+.first_section_secondRow
+{
+	background-color:;
+	/*border: 2px solid #F2F2F2;
+	height: 70px;
+   padding-bottom: 10px;
+	margin-top: 10px;*/
+
+}
+
+
+/* second section*/
+#second_section
+{
+	margin-top: 10px;
+}
+.first_row_sec_sec li
+{
+ float:left;
+ text-decoration: none;
+    color: black;
+    font-weight:bold;
+    padding: 13px 6px;
+    display:inline-block;
+    font-size:13px; 
+
+}
+
+.section_three_first_col_div
+{
+	background-color: #ccc;
+}
+
+.comment_subscribe_box
+{
+	margin-top: 25px;
+border: 1px solid #F2F2F2;
+	height:80px;
+	margin-bottom: 20px;
+}
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+
+}
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) and (max-width: 991.98px) { ... }
